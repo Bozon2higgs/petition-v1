@@ -1,0 +1,79 @@
+# À propos de ce projet
+
+## 1. Objet du projet
+
+Ce projet fournit un cadre de référence international, multilingue et neutre destiné à la diffusion et à la réutilisation d’un texte de pétition à portée globale.
+
+Il vise à faciliter l’accès à un document juridiquement fondé, pouvant être lu, cité, transmis et réutilisé par des individus, organisations, chercheurs, journalistes et institutions, sans affiliation politique ou juridique.
+
+---
+
+## 2. Méthodologie
+
+Le texte de la pétition repose sur :
+
+- l’analyse de cadres juridiques internationaux existants,
+- la référence à des traités et doctrines reconnus,
+- un alignement linguistique rigoureux entre les langues,
+- une priorité donnée à la clarté, l’accessibilité et la neutralité.
+
+---
+
+## 3. Neutralité éditoriale
+
+Le projet observe une neutralité éditoriale stricte :
+
+- aucune affiliation politique,
+- aucun mandat institutionnel,
+- aucune position partisane.
+
+Il s’agit d’une ressource documentaire et préparatoire.
+
+---
+
+## 4. Positionnement juridique
+
+Ce projet n’est pas :
+
+- un jugement,
+- une plainte judiciaire,
+- un appel à l’illégalité,
+- une procédure juridique formelle.
+
+Il constitue :
+
+- un document de référence,
+- un outil civique informatif,
+- une base textuelle réutilisable légalement.
+
+---
+
+## 5. Gouvernance et versions
+
+La version actuelle est identifiée comme **Version 1.0**.
+
+Toute évolution future respectera :
+
+- la transparence des modifications,
+- la conservation des versions précédentes,
+- un versionnage clair.
+
+---
+
+## 6. Utilisation, citation et réutilisation
+
+Le texte peut être :
+
+- librement consulté et diffusé,
+- cité dans des contextes académiques ou institutionnels,
+- réutilisé comme document de référence.
+
+La citation de ce dépôt est recommandée.
+
+---
+
+## 7. Langues et accessibilité
+
+Le projet est volontairement multilingue.
+
+Les traductions visent une équivalence de sens, non une traduction littérale.
