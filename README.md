@@ -80,3 +80,6 @@ This repository is a **documentary and preparatory resource**, published in acco
 
 - [Sources and references](sources.md)
 - [About this project](about.md)
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
