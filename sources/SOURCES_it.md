@@ -117,3 +117,10 @@ Essa costituisce un **documento di riferimento**, destinato a:
 
 Questa petizione è ancorata al **diritto internazionale vigente e alla dottrina giuridica riconosciuta**.  
 Essa mira a riaffermare il principio secondo cui **gli obblighi in materia di diritti umani devono prevalere su vincoli finanziari illegittimi**, in conformità agli impegni già assunti dagli Stati nel diritto internazionale.
+**Languages**
+
+[EN](../sources.md) | [FR](SOURCES_fr.md) | [ES](SOURCES_es.md) |  
+[DE](SOURCES_de.md) | [IT](SOURCES_it.md) | [PT](SOURCES_pt.md) |  
+[RU](SOURCES_ru.md) | [ZH](SOURCES_zh.md) | <span dir="rtl">[AR](SOURCES_ar.md)</span>
+
+---
