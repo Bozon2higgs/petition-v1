@@ -1,23 +1,22 @@
 
-🇫🇷 README – FR (résumé fidèle)
-Ce qu’est la pétition
+# International Petition – Version 1.0
 
-Pétition internationale relative aux effets des dettes publiques illégitimes sur les droits humains fondamentaux.
-Document de référence, version 1.0, stable et traçable.
+This repository contains **Version 1.0** of an international petition addressing the **effects of illegitimate public debts on fundamental human rights**.
 
-Ce que contient le dépôt
+The petition is provided as a **reference document**, designed to support analysis, discussion, dissemination, and potential institutional use.
 
-Un dossier petition-texts/ contenant un fichier par langue, chacun avec le texte intégral.
+---
 
-Langues faisant foi
+## What this petition is
 
-Français (FR)
+- A formal international petition
+- A stable and versioned reference text (v1.0)
+- A documentary basis for research, advocacy, and public discussion
+- A multilingual resource accessible to citizens, researchers, journalists, NGOs, and institutions
 
-Anglais (EN)
+---
 
-Espagnol (ES)
+## What this repository contains
 
-Ce que le dépôt n’est PAS
+The core content is located in the following directory:
 
-Ce dépôt n’est ni un jugement, ni une plainte, ni un appel à l’illégalité.
-Il constitue une base documentaire et préparatoire.
