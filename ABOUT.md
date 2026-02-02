@@ -91,3 +91,6 @@ This project is intentionally multilingual.
 All language versions are made available to ensure accessibility and international usability.
 
 Translations aim for equivalence of meaning rather than literal word-for-word correspondence.
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
