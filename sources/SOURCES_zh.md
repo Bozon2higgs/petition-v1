@@ -117,3 +117,10 @@
 
 本请愿书植根于**现行国际法和公认的法律学说**。  
 其目的在于重申这样一项原则：**人权义务应优先于不正当的金融约束**，并符合国家在国际法下已作出的承诺。
+**Languages**
+
+[EN](../sources.md) | [FR](SOURCES_fr.md) | [ES](SOURCES_es.md) |  
+[DE](SOURCES_de.md) | [IT](SOURCES_it.md) | [PT](SOURCES_pt.md) |  
+[RU](SOURCES_ru.md) | [ZH](SOURCES_zh.md) | <span dir="rtl">[AR](SOURCES_ar.md)</span>
+
+---
