@@ -27,26 +27,21 @@ The complete petition text is available in multiple languages:
 
 ---
 
-### Explanatory README files (by language)
-Contextual explanations are available in multiple languages:
+## Available languages
+(Language order does not imply legal precedence.)
 
-📂 **readme/**  
-→ one `README_xx.md` file per language.
+## Available languages
 
-Available languages:
 - [Français](readme/README_fr.md)
 - [English](readme/README_en.md)
 - [Español](readme/README_es.md)
 - [Deutsch](readme/README_de.md)
 - [Italiano](readme/README_it.md)
 - [Português](readme/README_pt.md)
-- [العربية](readme/README_ar.md)
 - [Русский](readme/README_ru.md)
 - [中文（简体）](readme/README_zh.md)
+- ‎[العربية](readme/README_ar.md)
 
----
-
-## Legal and normative foundations
 
 This petition is grounded in international law, United Nations treaties, and recognized legal doctrine.
 
