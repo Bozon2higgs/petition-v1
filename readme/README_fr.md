@@ -43,8 +43,6 @@ The following versions are considered authoritative reference texts:
 All other language versions are faithful translations provided for accessibility and dissemination.
 ---
 
-## Read this document in other languages
-
 - [Français (FR)](readme/README_fr.md)
 - [English (EN)](readme/README_en.md)
 - [Español (ES)](readme/README_es.md)
