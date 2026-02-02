@@ -45,10 +45,22 @@ The complete petition text is available in multiple languages:
 
 This petition is grounded in international law, United Nations treaties, and recognized legal doctrine.
 
+- [English – full text](petition-texts/en.txt)
+- [Français – texte intégral](petition-texts/fr.txt)
+- [Español – texto completo](petition-texts/es.txt)
+- [Deutsch – vollständiger Text](petition-texts/de.txt)
+- [Italiano – testo completo](petition-texts/it.txt)
+- [Português – texto completo](petition-texts/pt.txt)
+- [Русский – полный текст](petition-texts/ru.txt)
+- [中文（简体）– 完整文本](petition-texts/zh.txt)
+‎[العربية – النص الكامل](petition-texts/ar.txt)
+
+
+The following file paths provide direct access to the complete petition texts.
+They are provided in a copy-friendly format for citation, sharing, and reuse.
 📚 **Sources and legal foundations**  
 👉 [Read the sources](sources.md)
 
----
 
 ## What this repository is NOT
 
