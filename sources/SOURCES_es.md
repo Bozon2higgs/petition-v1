@@ -117,3 +117,10 @@ Constituye un **documento de referencia**, destinado a:
 
 Esta petición se fundamenta en **el derecho internacional vigente y la doctrina jurídica reconocida**.  
 Busca reafirmar el principio según el cual **las obligaciones en materia de derechos humanos deben prevalecer sobre las restricciones financieras ilegítimas**, conforme a los compromisos ya asumidos por los Estados en el derecho internacional.
+**Languages**
+
+[EN](../sources.md) | [FR](SOURCES_fr.md) | [ES](SOURCES_es.md) |  
+[DE](SOURCES_de.md) | [IT](SOURCES_it.md) | [PT](SOURCES_pt.md) |  
+[RU](SOURCES_ru.md) | [ZH](SOURCES_zh.md) | <span dir="rtl">[AR](SOURCES_ar.md)</span>
+
+---
