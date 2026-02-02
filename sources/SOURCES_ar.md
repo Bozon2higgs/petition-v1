@@ -121,3 +121,10 @@
 وتهدف إلى إعادة تأكيد المبدأ القائل بأن **الالتزامات المتعلقة بحقوق الإنسان يجب أن تسمو على القيود المالية غير المشروعة**، وذلك وفقًا للالتزامات التي تعهدت بها الدول بموجب القانون الدولي.
 
 </div>
+**Languages**
+
+[EN](../sources.md) | [FR](SOURCES_fr.md) | [ES](SOURCES_es.md) |  
+[DE](SOURCES_de.md) | [IT](SOURCES_it.md) | [PT](SOURCES_pt.md) |  
+[RU](SOURCES_ru.md) | [ZH](SOURCES_zh.md) | <span dir="rtl">[AR](SOURCES_ar.md)</span>
+
+---
