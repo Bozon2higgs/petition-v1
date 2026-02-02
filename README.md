@@ -64,3 +64,7 @@ This repository is a **documentary and preparatory resource**, published in acco
 
 - Current version: **1.0**
 - This version is considered stable and reference-ready.
+- ## Additional documentation
+
+- [Sources and references](sources.md)
+- [About this project](about.md)
