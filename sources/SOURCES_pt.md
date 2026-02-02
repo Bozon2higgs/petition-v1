@@ -117,3 +117,10 @@ Constitui um **documento de referência**, destinado a:
 
 Esta petição está ancorada no **direito internacional vigente e na doutrina jurídica reconhecida**.  
 Busca reafirmar o princípio segundo o qual **as obrigações em matéria de direitos humanos devem prevalecer sobre restrições financeiras ilegítimas**, de acordo com os compromissos já assumidos pelos Estados no direito internacional.
+**Languages**
+
+[EN](../sources.md) | [FR](SOURCES_fr.md) | [ES](SOURCES_es.md) |  
+[DE](SOURCES_de.md) | [IT](SOURCES_it.md) | [PT](SOURCES_pt.md) |  
+[RU](SOURCES_ru.md) | [ZH](SOURCES_zh.md) | <span dir="rtl">[AR](SOURCES_ar.md)</span>
+
+---
