@@ -117,3 +117,10 @@ Sie ist ein **Referenzdokument**, das darauf abzielt:
 
 Diese Petition ist im **bestehenden internationalen Recht und anerkannter Rechtsdoktrin** verankert.  
 Sie bekräftigt das Prinzip, dass **menschenrechtliche Verpflichtungen Vorrang vor illegitimen finanziellen Zwängen haben müssen**, im Einklang mit den von den Staaten eingegangenen internationalen Verpflichtungen.
+**Languages**
+
+[EN](../sources.md) | [FR](SOURCES_fr.md) | [ES](SOURCES_es.md) |  
+[DE](SOURCES_de.md) | [IT](SOURCES_it.md) | [PT](SOURCES_pt.md) |  
+[RU](SOURCES_ru.md) | [ZH](SOURCES_zh.md) | <span dir="rtl">[AR](SOURCES_ar.md)</span>
+
+---
