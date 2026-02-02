@@ -117,3 +117,10 @@ It constitutes a **reference document**, intended to:
 
 This petition is anchored in **existing international law and recognized legal doctrine**.  
 It seeks to reaffirm the principle that **human rights obligations must prevail over illegitimate financial constraints**, in accordance with the commitments already undertaken by States under international law.
+**Languages**
+
+[EN](../sources.md) | [FR](SOURCES_fr.md) | [ES](SOURCES_es.md) |  
+[DE](SOURCES_de.md) | [IT](SOURCES_it.md) | [PT](SOURCES_pt.md) |  
+[RU](SOURCES_ru.md) | [ZH](SOURCES_zh.md) | <span dir="rtl">[AR](SOURCES_ar.md)</span>
+
+---
