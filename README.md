@@ -89,3 +89,10 @@ A formal specification of the associated web platform is available here:
 
 - [International Petition Platform – Web Specification (PDF)](./PlatformSpec_v1_20260202.pdf)
 
+---
+
+## Platform Specification
+
+A formal specification of the associated web platform is available in PDF format:
+
+- [International Petition Platform – Web Specification (PDF)](./PlatformSpec_v1_20260202.pdf)
