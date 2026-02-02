@@ -83,3 +83,9 @@ This repository is a **documentary and preparatory resource**, published in acco
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+## Platform Specification
+
+A formal specification of the associated web platform is available here:
+
+- [International Petition Platform – Web Specification (PDF)](./PlatformSpec_v1_20260202.pdf)
+
