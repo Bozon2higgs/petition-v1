@@ -1,3 +1,11 @@
+**Languages**
+
+[EN](ABOUT.md) | [FR](about/ABOUT_fr.md) | [ES](about/ABOUT_es.md) |  
+[DE](about/ABOUT_de.md) | [IT](about/ABOUT_it.md) | [PT](about/ABOUT_pt.md) |  
+[RU](about/ABOUT_ru.md) | [ZH](about/ABOUT_zh.md) | <span dir="rtl">[AR](about/ABOUT_ar.md)</span>
+
+---
+
 # About This Project
 
 ## 1. Purpose of the Project
