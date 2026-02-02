@@ -94,3 +94,4 @@ Translations aim for equivalence of meaning rather than literal word-for-word co
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+A formal specification of the associated web platform is available in PDF format in this repository.
