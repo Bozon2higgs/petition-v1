@@ -9,7 +9,21 @@
 </head>
 <body>
 <header>
-  <nav><small>Sprache: <a href="../">EN</a> · <a href="../fr/">FR</a> · <a href="../es/">ES</a> · <strong>DE</strong> · <a href="../it/">IT</a> · <a href="../pt/">PT</a> · <a href="../nl/">NL</a> · <a href="../pl/">PL</a> · <a href="../ar/">AR</a></small></nav>
+  <nav>
+  <small>
+    Langue :
+    <a href="./">EN</a> ·
+    <a href="./fr/">FR</a> ·
+    <a href="./es/">ES</a> ·
+    <a href="./de/">DE</a> ·
+    <a href="./it/">IT</a> ·
+    <a href="./pt/">PT</a> ·
+    <a href="./nl/">NL</a> ·
+    <a href="./pl/">PL</a> ·
+    <a href="./ar/">AR</a>
+  </small>
+</nav>
+Sprache: <a href="../">EN</a> · <a href="../fr/">FR</a> · <a href="../es/">ES</a> · <strong>DE</strong> · <a href="../it/">IT</a> · <a href="../pt/">PT</a> · <a href="../nl/">NL</a> · <a href="../pl/">PL</a> · <a href="../ar/">AR</a></small></nav>
   <h1>Internationale Petition – Version 1.0</h1>
   <p>Neutrales, mehrsprachiges Referenzdokument.</p>
 </header>
