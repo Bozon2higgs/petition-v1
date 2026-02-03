@@ -47,22 +47,35 @@
       margin-bottom: 0.2em;
     }
 
-    h2 {
-      margin-top: 2rem;
-    }
+   a button {
+  all: unset;
+  display: inline-block;
+  margin-top: 0.8rem;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  border: 1px solid #333;
+  background: #fff;
+  cursor: pointer;
+  color: #222;
+}
 
-    section {
-      margin-bottom: 2.5rem;
-    }
+a button:hover {
+  background: #eee;
+}
 
-    button {
-      margin-top: 0.8rem;
-      padding: 0.6rem 1.2rem;
-      font-size: 1rem;
-      border: 1px solid #333;
-      background: white;
-      cursor: pointer;
-    }
+a {
+  color: inherit;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+
+a {
+  color: inherit;
+}
 
     button:hover {
       background: #eee;
