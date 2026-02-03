@@ -6,17 +6,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Document de référence neutre et multilingue.">
   <style>
-    body{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;margin:0;background:#fafafa;color:#222;line-height:1.6}
-    header,main,footer{max-width:900px;margin:auto;padding:2rem}
-    header{border-bottom:1px solid #ddd}
-    footer{border-top:1px solid #ddd;font-size:.9rem;color:#555}
-    nav small{color:#555}
-    nav a{text-decoration:none;color:#222}
-    nav a:hover{text-decoration:underline}
-    h1{margin-bottom:.2em}
-    section{margin-bottom:2.5rem}
-    button{margin-top:.8rem;padding:.6rem 1.2rem;font-size:1rem;border:1px solid #333;background:#fff}
-    button:disabled{opacity:.6}
+  a button {
+  all: unset;
+  display: inline-block;
+  margin-top: 0.8rem;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  border: 1px solid #333;
+  background: #fff;
+  cursor: pointer;
+  color: #222;
+}
+
+a button:hover {
+  background: #eee;
+}
+
+a {
+  color: inherit;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
   </style>
 </head>
 <body>
