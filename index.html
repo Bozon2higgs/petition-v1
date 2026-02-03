@@ -1,242 +1,151 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>International Petition – Version 1.0</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="A legally grounded, multilingual reference document." />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A neutral, multilingual reference document addressing the relationship between public debt, democratic consent, and fundamental human rights.">
 
-HEADER
-- International Petition – Version 1.0
-- A neutral, multilingual reference document
-
-MAIN
-[Section 1]
-Title: Read the Petition
-Text: Access the full petition text in your language.
-Button: Read the petition
-
-[Section 2]
-Title: Sign & Share
-Text: Express your support and instantly share the petition.
-Button: Sign and share
-Note: No account required. No data stored beyond this action.
-
-[Section 3]
-Title: Legal Foundations
-Text: Consult the international legal sources underlying this petition.
-Button: View legal sources
-
-[Section 4]
-Title: About this Project
-Text: Learn about the purpose, neutrality, and governance of this initiative.
-Button: About the project
-
-FOOTER
-- License: CC BY 4.0
-- This platform provides access to a reference document.
-- It does not constitute legal advice, a judicial claim, or a political mandate.
-
-    h1, h2, h3 {
-      font-weight: 500;
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #fafafa;
+      color: #222;
     }
-    .hero {
-      margin-bottom: 60px;
+
+    header, main, footer {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
     }
-    .actions button {
-      margin-right: 12px;
-      margin-top: 12px;
-      padding: 10px 18px;
-      font-size: 0.95rem;
+
+    header {
+      border-bottom: 1px solid #ddd;
+    }
+
+    nav {
+      margin-bottom: 1.2rem;
+    }
+
+    nav small {
+      color: #555;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #222;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    h1 {
+      margin-bottom: 0.2em;
+    }
+
+    h2 {
+      margin-top: 2rem;
+    }
+
+    section {
+      margin-bottom: 2.5rem;
+    }
+
+    button {
+      margin-top: 0.8rem;
+      padding: 0.6rem 1.2rem;
+      font-size: 1rem;
       border: 1px solid #333;
-      background: #fff;
+      background: white;
       cursor: pointer;
     }
-    section {
-      margin-bottom: 60px;
+
+    button:hover {
+      background: #eee;
     }
+
+    button:disabled {
+      cursor: not-allowed;
+      opacity: 0.6;
+    }
+
     footer {
-      margin-top: 80px;
-      font-size: 0.85rem;
-      color: #555;
       border-top: 1px solid #ddd;
-      padding-top: 20px;
-    }
-    .note {
-      font-size: 0.85rem;
+      font-size: 0.9rem;
       color: #555;
+    }
+
+    small {
+      color: #666;
     }
   </style>
 </head>
 
 <body>
 
-  <!-- HERO -->
-  <div class="hero">
-    <h1>International Petition – Version 1.0</h1>
-    <p>A legally grounded, multilingual reference document.</p>
+<header>
+  <nav>
+    <small>
+      Language:
+      <strong>EN</strong> ·
+      <a href="./fr/">FR</a> ·
+      <a href="./es/">ES</a> ·
+      <a href="./de/">DE</a>
+    </small>
+  </nav>
 
-    <div class="actions">
-      <button>Read the Petition</button>
-      <button>Sign &amp; Support</button>
-      <button>Share / Transmit</button>
-    </div>
+  <h1>International Petition – Version 1.0</h1>
+  <p>A neutral, multilingual reference document.</p>
+</header>
 
-    <p class="note">
-      Read, support, or transmit the petition using lawful and voluntary actions.
-    </p>
-  </div>
+<main>
 
   <!-- READ -->
   <section>
     <h2>Read the Petition</h2>
-
-    <p class="note">
-      This document is provided in read-only mode.
-    </p>
-
-    <div style="border:1px solid #ccc; padding:16px; max-height:280px; overflow:auto;">
-      <p>[ Petition text displayed here ]</p>
-    </div>
-
-    <div class="actions">
-      <button>Copy text</button>
-      <button>Download (.txt)</button>
-      <button>Download (.pdf)</button>
-    </div>
-
-    <p class="note">
-      Reading this document does not imply endorsement or legal commitment.
-    </p>
+    <p>Access the full petition text in your language.</p>
+    <a href="./petition-texts/en.txt">
+      <button>Read the petition</button>
+    </a>
   </section>
 
-  <!-- SIGN -->
+  <!-- SIGN & SHARE -->
   <section>
-    <h2>Sign &amp; Support</h2>
-
-    <p>
-      Supporting this petition is a voluntary, declarative act.<br />
-      It does not create legal obligations or representation.
-    </p>
-
-    <form>
-      <label>
-        Name (optional)<br />
-        <input type="text" />
-      </label><br /><br />
-
-      <label>
-        Country (optional)<br />
-        <input type="text" />
-      </label><br /><br />
-
-      <label>
-        Affiliation (optional)<br />
-        <input type="text" />
-      </label><br /><br />
-
-      <label>
-        <input type="checkbox" />
-        I support this petition as a civic and documentary reference.
-      </label><br /><br />
-
-      <button type="submit">Sign &amp; Continue</button>
-    </form>
-
-    <p class="note">
-      No account required. No email required.<br />
-      Information is not publicly displayed.
-    </p>
-
-    <p class="note">
-      This action does not constitute a legal mandate or claim.
-    </p>
+    <h2>Sign &amp; Share</h2>
+    <p>Express your support and instantly share the petition.</p>
+    <button disabled>Sign &amp; share</button>
+    <p><small>No account required. No data stored beyond this action.</small></p>
   </section>
 
-  <!-- SHARE -->
+  <!-- LEGAL -->
   <section>
-    <h2>Share / Transmit</h2>
-
-    <p>
-      You may transmit this petition to relevant institutions using the options below.<br />
-      All actions are initiated by you.
-    </p>
-
-    <div class="actions">
-      <button>Send to UN bodies</button>
-      <button>Send to EU institutions</button>
-      <button>Share by email</button>
-      <button>Copy official link</button>
-    </div>
-
-    <p class="note">
-      The platform does not send messages on your behalf.
-    </p>
+    <h2>Legal Foundations</h2>
+    <p>Consult the international legal foundations of this document.</p>
+    <a href="./sources.md">
+      <button>View legal sources</button>
+    </a>
   </section>
 
-  <!-- WHY -->
+  <!-- ABOUT -->
   <section>
-    <h2>Why this project exists</h2>
-
-    <h3>Legal grounding</h3>
-    <p>Based on international law, United Nations treaties, and recognized legal doctrine.</p>
-
-    <h3>Editorial neutrality</h3>
-    <p>No political affiliation. No advocacy mandate. No partisan positioning.</p>
-
-    <h3>Institutional usability</h3>
-    <p>Designed as a reference resource for civic, academic, and institutional use.</p>
+    <h2>About the Project</h2>
+    <p>Learn about the purpose, neutrality, and governance of this initiative.</p>
+    <a href="./about/ABOUT_en.md">
+      <button>About the project</button>
+    </a>
   </section>
 
-  <!-- DOCUMENTATION -->
-  <section>
-    <h2>Documentation</h2>
-    <ul>
-      <li>Petition Text – All languages (GitHub)</li>
-      <li>Legal Foundations and Sources</li>
-      <li>Platform Specification (PDF)</li>
-      <li>GitHub Repository</li>
-    </ul>
+</main>
 
-    <p class="note">
-      Source files and documentation are maintained in the public repository.
-    </p>
-  </section>
-
-  <!-- FOOTER -->
-  <footer>
-    <p>
-      License: Creative Commons Attribution 4.0 International (CC BY 4.0)
-    </p>
-    <p>
-      This platform provides access to a reference document.<br />
-      It does not constitute legal advice, a judicial claim, or a political mandate.
-    </p>
-    <p>
-      All language versions are available in the repository.
-    </p>
-  </footer>
-
-  Read the petition
-Sign & share
-View legal sources
-About the project
-
-Access the full petition text in your language.
-Express your support and instantly share the petition.
-Consult the international legal foundations of this document.
-Learn about the purpose, neutrality, and governance of this initiative.
-
-  <!-- MICRO-TEXTS (REFERENCE - EN) -->
-
-No account required.
-No data stored beyond this action.
-This platform provides access to a reference document.
-It does not constitute legal advice, a judicial claim, or a political mandate.
+<footer>
+  <p>License: Creative Commons Attribution 4.0 International (CC BY 4.0)</p>
+  <p>This platform provides access to a reference document.</p>
+  <p>It does not constitute legal advice, a judicial claim, or a political mandate.</p>
+</footer>
 
 </body>
-  
-
-
-
 </html>
