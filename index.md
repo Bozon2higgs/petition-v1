@@ -20,7 +20,7 @@ This project provides access to a formally structured petition text, supported b
 
 ## Documents
 
-- [Petition Text (Version 1.0)](./petition-texts/)
+- [Petition Text (Version 1.0)](https://github.com/Bozon2higgs/petition-v1/tree/main/petition-texts)
 - [Legal Foundations and Sources](./sources.md)
 - [Platform Specification (PDF)](./PlatformSpec_v1_20260202.pdf)
 - [GitHub Repository](https://github.com/Bozon2higgs/petition-v1)
