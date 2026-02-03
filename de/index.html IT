@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Internationale Petition – Version 1.0</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Neutrales, mehrsprachiges Referenzdokument zu öffentlicher Verschuldung, demokratischer Zustimmung und Grundrechten.">
+  <style>/* IDENTIQUE À EN */</style>
+</head>
+<body>
+<header>
+  <nav><small>Sprache: <a href="../">EN</a> · <a href="../fr/">FR</a> · <a href="../es/">ES</a> · <strong>DE</strong> · <a href="../it/">IT</a> · <a href="../pt/">PT</a> · <a href="../nl/">NL</a> · <a href="../pl/">PL</a> · <a href="../ar/">AR</a></small></nav>
+  <h1>Internationale Petition – Version 1.0</h1>
+  <p>Neutrales, mehrsprachiges Referenzdokument.</p>
+</header>
+<main>
+<section><h2>Petition lesen</h2><p>Vollständiger Text in Ihrer Sprache.</p><a href="../petition-texts/de.txt"><button>Petition lesen</button></a></section>
+<section><h2>Unterzeichnen &amp; teilen</h2><p>Unterstützung ausdrücken und teilen.</p><button disabled>Unterzeichnen &amp; teilen</button><p><small>Keine Datenspeicherung.</small></p></section>
+<section><h2>Rechtliche Grundlagen</h2><p>Internationale Rechtsgrundlagen.</p><a href="../sources.md"><button>Quellen anzeigen</button></a></section>
+<section><h2>Über das Projekt</h2><p>Zweck, Neutralität und Governance.</p><a href="../about/ABOUT_de.md"><button>Über das Projekt</button></a></section>
+</main>
+<footer><p>Lizenz CC BY 4.0 — Keine Rechtsberatung.</p></footer>
+</body>
+</html>
